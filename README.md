@@ -15,3 +15,5 @@ Example Query:
 -- Example: Update an existing leg of a route: call yellow_jacket_delivery.add_update_leg('leg_25', 1800, 'SEA', 'LAX');
 
 Project Context: This database was created as a team project for a database systems course at the Georgia Institute of Technology. It demonstrates both theoretical design (ER diagrams, normalization) and practical application (SQL queries and stored procedures).
+
+Authors: Kaylee Burt and project team (Georgia Tech, 2025)
