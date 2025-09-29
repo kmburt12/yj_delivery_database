@@ -1,6 +1,6 @@
 Yellow Jacket Delivery Database
 
-Overview: This project was developed to recreate a campus delivery system using a relational database in MySQL. The database models users, orders, warehouses, trucks, and routes to simulate how packages move through a delivery service.
+Overview: This project was developed to recreate a campus delivery system using a relational database in MySQL. The database models users, orders, warehouses, trucks, and routes to simulate how packages move through a delivery service. The code also includes a link to a YouTube video demonstration that walks through the implementation of key stored procedures, such as updating delivery routes and hiring new workers
 
 Features:
 - Entity-Relationship Design: Created an ER diagram to define relationships between core entities (orders, warehouses, routes, workers).
